@@ -1,0 +1,6 @@
+{
+  "name": "shared",
+  "private": true,
+  "module": "./src/index.ts",
+  "exports": { ".": "./src/index.ts" }
+}
